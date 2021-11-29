@@ -1,0 +1,68 @@
+.dark {
+	background-color: #2e3537;
+	border-bottom: 1px solid #252a2c;
+}
+
+.btn-defalut {
+	color: #ffffff;
+}
+
+.nav-item a {
+	color: black;
+}
+
+.mustLogin {
+	display: none;
+}
+
+#navbar-collapse-1 {
+	height: 80px;
+	color: black;
+}
+
+#updateButton {
+	display: none;
+}
+/*#logout,
+#info {
+  display: none;
+}*/
+.title {
+	margin-top: 50px;
+	margin-left: 20px;
+}
+
+.modal-content {
+	width: 470px;
+	height: 500px;
+}
+
+.info_input {
+	display: none;
+}
+
+#delete {
+	display: none;
+}
+
+
+
+/* footer css */
+#footer {
+	background-color: lightgray;
+}
+
+.footer {
+	text-align: left;
+}
+
+.footer .footer-content img {
+	display: block;
+	margin-top: 60px;
+	width: 60%;
+}
+
+.footer .container .footer-inner {
+	text-align: justify;
+	margin-left: 100px;
+}

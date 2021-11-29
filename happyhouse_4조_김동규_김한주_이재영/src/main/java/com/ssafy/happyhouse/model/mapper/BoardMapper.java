@@ -1,0 +1,22 @@
+package com.ssafy.happyhouse.model.mapper;
+
+import java.sql.SQLException;
+import java.util.List;
+
+import org.apache.ibatis.annotations.Mapper;
+
+import com.ssafy.happyhouse.model.BoardDto;
+import com.ssafy.happyhouse.model.BoardParameterDto;
+
+@Mapper
+public interface BoardMapper {
+
+	int writeArticle(BoardDto boardDto) throws Exception;
+	List<BoardDto> listArticle(BoardParameterDto boardParameterDto) throws Exception;
+	void updateHit(int articleno) throws Exception;
+	BoardDto getArticle(int articleno) throws Exception;
+	public int modifyArticle(BoardDto boardDto) throws SQLException;
+//	public void deleteMemo(int articleno) throws SQLException;
+	public int deleteArticle(int articleno) throws SQLException;
+	int totalArticle() throws SQLException;
+}
