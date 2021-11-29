@@ -27,17 +27,17 @@
 
 ## 기능 소개
 
-![KakaoTalk_20211125_235852640](/uploads/ca680949dd6bb790e0ecf5b8b85297c7/KakaoTalk_20211125_235852640.png)
+![홈화면](https://user-images.githubusercontent.com/54871612/143813374-0839d29c-feeb-4291-80c1-1b70d6f063ab.png)
   
 **Pic 1** 📷 : **네이버에서 부동산 관련 기사 제공**(홈 화면)
-![KakaoTalk_20211126_005115855](/uploads/a72cf3328c2528d19050187c30093355/KakaoTalk_20211126_005115855.png)
+![캣독스타그램](https://user-images.githubusercontent.com/54871612/143813443-47cceca7-8c82-4154-a1f1-cdcd5a977291.png)
 
-**Pic 2** 📷 : 원하는 리스트 클릭시 해당 주택에 대한 상세정보 제공
+**Pic 2** 📷 : 커뮤니티(파일 업로드)
+![게시판](https://user-images.githubusercontent.com/54871612/143813459-ef613615-b85c-4c3f-8b97-2f8c5f600356.png)
 
-![KakaoTalk_20211126_005144493](/uploads/eee820e986524f2c7211f27ca0d14b82/KakaoTalk_20211126_005144493.png)
 
 **Pic 3** 📷 : **QnA 게시판**
+![카카오 맵 및편의시설](https://user-images.githubusercontent.com/54871612/143813484-1023df7f-9d94-4302-93f0-7609f1636985.png)
 
-![KakaoTalk_20211126_005227470](/uploads/b6c8520ae4690c09ad86e60e5fb9bd1f/KakaoTalk_20211126_005227470.png)
 
 **Pic 4** 📷 : **원하는 지역 클릭시 편의시설 조회 제공**(KaKaoMap API 이용)
